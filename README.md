@@ -1,4 +1,4 @@
-## Project: Numeric Matrix Processor
+## Project #3: Numeric Matrix Processor
 
 JetBrains Academy - Kotlin Developer path
 
